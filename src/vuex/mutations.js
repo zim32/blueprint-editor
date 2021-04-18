@@ -1,0 +1,17 @@
+export const SET_VIEWPORT_STATE = 'setViewportState';
+export const SET_CONFIG = 'setConfig';
+export const ADD_NODE_TO_VIEWPORT = 'addNodeToViewport';
+export const REMOVE_NODE_FROM_VIEWPORT = 'removeNodeFromViewport';
+export const SET_CONNECTION_INITIATOR = 'setConnectionInitiator';
+export const ADD_CONNECTION = 'addConnection';
+export const REMOVE_CONNECTION = 'removeConnection';
+export const ADD_REROUTE_POINT = 'addReroutePoint';
+export const SET_VIEWPORT_POSITION = 'setViewportPosition';
+export const SET_CTX_MENU_MOUSE_POSITION = 'setCtxMenuMousePosition';
+export const SHOW_ADD_NODE_DIALOG = 'showAddNodeDialog';
+export const SET_CURRENT_CONTEXT = 'setContext';
+export const SET_SELECTED_NODES = 'setSelectedNodes';
+export const SET_SELECTED_REROUTE_NODES = 'setSelectedRerouteNodes';
+export const SET_SVG_EVENTS_ENABLED = 'setSvgEventsEnabled';
+export const ADD_VARIABLE = 'addVariable';
+export const REVALIDATE_CONNECTIONS_FOR_NODE = 'revalidateConnectionsForNode';
